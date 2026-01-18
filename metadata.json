@@ -1,0 +1,7 @@
+{
+  "name": "Cbgffbgbgfopy of Copy of HostelHub Probgfbgfgb",
+  "description": "A professional-grade hostel management system for tracking attendance, daily warden reports, and administrative analytics with built-in PDF generation and AI-powered insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
